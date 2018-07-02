@@ -1,0 +1,23 @@
+{
+  "name": "azurechatbotpoct",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivag342/azurechatbotpoct.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.15.0",
+    "restify": "^7.2.1"
+  },
+  "bugs": {
+    "url": "https://github.com/shivag342/azurechatbotpoct/issues"
+  },
+  "homepage": "https://github.com/shivag342/azurechatbotpoct#readme"
+}
